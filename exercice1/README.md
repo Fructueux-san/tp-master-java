@@ -15,6 +15,7 @@ reprenant le pattern Singleton. Ainsi nous allons garantir que notre programme v
 et même instance de la classe Journalisation. Une troisième classe intitulée **Main** permettra
 d’exécuter l’application et d’obtenir un résultat en console.
 
+```
 _____________________________________
 |          Journalisation           |
 -------------------------------------
@@ -39,6 +40,7 @@ _____________________________________
 |+ retirerArgent(retrait: double):  |
 -------------------------------------
 
+```
 
 Sur ce diagramme UML, on retrouve les deux classes Jounalisation et CompteBancaire. On
 remarque aisément que la classe Journalisation est basée sur le pattern Singleton. En effet, on
