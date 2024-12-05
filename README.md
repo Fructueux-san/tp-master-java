@@ -1,3 +1,5 @@
+HOUETO Stanislas & GUIDIMADJEGBE Pacitte
+
 # Design pattern singleton JAVA
 
 ## [Exercice 1](exercice1/README.md)
